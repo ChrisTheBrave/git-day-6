@@ -1,0 +1,32 @@
+
+body{
+  margin: 3%;
+  font-size: 2em;
+}
+
+header {
+  border: 1px solid green;
+  width: 50%;
+  -ms-border-radius
+  -moz-border-radius
+  -webkit-border-radius
+  -o-border-radius
+  border-radius: 1em;
+}
+
+h1 {
+  border: 1px solid red;
+  width: 50vw;
+}
+
+p{
+line-height: 1.45em;
+word-spacing: 2em;
+letter-spacing: .3em;
+float: left;
+width: calc(33% - 2em);
+margin: 0 1em;
+padding: 1em;
+border: 1px solid blue;
+box-sizing: border-box;
+}
